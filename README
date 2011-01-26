@@ -1,0 +1,5 @@
+******** Tunes Cleaner ********
+This ruby script removes duplicates and cleans-up your mp3 files.
+Current version: 0.1
+Features:  	Run in your iTunes Music folder to clean-up your music
+			Right now it just removes duplicates	
